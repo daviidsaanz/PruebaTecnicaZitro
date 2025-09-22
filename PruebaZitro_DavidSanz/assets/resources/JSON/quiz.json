@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "¿Cuándo se fundó Zitro?",
+      "answers": [
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "¿Quién fundó Zitro?",
+      "answers": [
+        "Johnny Ortiz",
+        "Amancio Ortega",
+        "Carlos Slim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sector principal de Zitro",
+      "answers": [
+        "Electrodomesticos",
+        "Casino",
+        "VR"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Valor que NO representa Zitro",
+      "answers": [
+        "Sostenibilidad",
+        "Avaricia",
+        "Compromiso"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Producto famoso de Zitro",
+      "answers": [
+        "Link King",
+        "Call of Duty",
+        "Candy Crush"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Otros juegos de Zitro",
+      "answers": [
+        "Apps",
+        "Bingo",
+        "Educativos"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Qué distingue a Zitro",
+      "answers": [
+        "Innovación",
+        "Producción masiva",
+        "Sin soporte"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Presencia internacional",
+      "answers": [
+        "Solo Europa",
+        "Europa, América y Asia",
+        "Solo América"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Compromiso social de Zitro",
+      "answers": [
+        "Diversidad y sostenibilidad",
+        "Beneficios",
+        "Ignorar reglas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Que letra aparece en el logo de Zitro",
+      "answers": [
+        "I",
+        "Z",
+        "A"
+      ],
+      "correct": 1
+    }
+  ]
+}
