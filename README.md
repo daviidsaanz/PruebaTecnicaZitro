@@ -61,6 +61,7 @@
   - La cámara no se ajustaba automáticamente al canvas.  
   - Los archivos JSON deben estar en `assets/resources` para ser cargados dinámicamente.  
   - Algunos ficheros se corrompían al mover scripts entre carpetas (.meta y .ts).  
-  - La API de hora puede fallar puntualmente (este error no lo he podido solucionar).  
+  - La API de hora puede fallar puntualmente (este error no lo he podido solucionar).
+  - Al hacer un commit de la rama "Quiz" en local, esta no se subía en remoto y se ha hecho el merge automaticamente con "main".
 
 ---
