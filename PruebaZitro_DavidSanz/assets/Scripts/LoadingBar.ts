@@ -25,11 +25,10 @@ export class LoadingBar extends Component {
     }
 
     update(deltaTime: number) {
-        this.timer += deltaTime; 
+        this.timer += deltaTime;
         let progress = this.timer / this.maxSeconds;
 
         if (progress >= 1) {
-            console.log("Loading complete");
             director.loadScene("Menú");
         }
 

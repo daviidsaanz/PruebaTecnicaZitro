@@ -9,7 +9,6 @@ export class ButtonManager extends Component {
 
     onClick() {
         if (this.sceneName && this.sceneName.trim() !== "") {
-            console.log("Loading scene: ", this.sceneName);
             director.loadScene(this.sceneName);
         } else {
             console.warn("Scene not found");
