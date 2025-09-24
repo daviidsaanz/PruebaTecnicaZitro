@@ -6,7 +6,7 @@
 <summary>1. Splash</summary>
 
 - Contiene una **barra de progreso** implementada con el componente `cc.ProgressBar`.  
-- Se ha adaptado un script oficial de Cocos Creator para simular una carga progresiva en función del tiempo definido [Código fuente]([https://worldtimeapi.org/](https://github.com/cocos/cocos-test-projects/blob/v3.8/assets/cases/ui/11.progress/progress.ts).  
+- Se ha adaptado un script oficial de Cocos Creator para simular una carga progresiva en función del tiempo definido [Código fuente]([https://worldtimeapi.org/](https://github.com/cocos/cocos-test-projects/blob/v3.8/assets/cases/ui/11.progress/progress.ts)).  
 - Al finalizar la animación, se carga automáticamente la **escena de Menú**.  
 
 </details>
