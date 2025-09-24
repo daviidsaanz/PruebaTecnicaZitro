@@ -57,10 +57,10 @@
 
 ## ⚠️ Problemas encontrados  
 
-  - La escena se inicializaba en 3D con cámara ortográfica.  
+  - La escena se inicializaba en 3D con cámara ortográfica (usando una plantilla 2D).  
   - La cámara no se ajustaba automáticamente al canvas.  
   - Los archivos JSON deben estar en `assets/resources` para ser cargados dinámicamente.  
-  - Algunos se corrompían al mover scripts entre carpetas.  
-  - La API de hora puede fallar puntualmente (este error no lo e podido solucionar).  
+  - Algunos ficheros se corrompían al mover scripts entre carpetas (.meta y .ts).  
+  - La API de hora puede fallar puntualmente (este error no lo he podido solucionar).  
 
 ---
